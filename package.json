@@ -1,0 +1,21 @@
+{
+  "name": "simpleSpiderDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "ejs": "^2.7.1",
+    "koa": "^2.8.1",
+    "koa-router": "^7.4.0",
+    "koa-views": "^6.2.1",
+    "mysql": "^2.17.1",
+    "superagent": "^5.1.0"
+  }
+}
